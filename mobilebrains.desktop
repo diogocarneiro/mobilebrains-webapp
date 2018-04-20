@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mobile Brains
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://www.mobilebrains.pt/* http://www.mobilebrains.pt
+Icon=logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff
+X-Ubuntu-Splash-Image=splash.png

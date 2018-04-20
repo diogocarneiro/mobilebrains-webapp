@@ -1,0 +1,15 @@
+{
+    "name": "mobilebrains.diogocarneiro",
+    "description": "Assistência Técnica de Telecomunicações",
+    "architecture": "all",
+    "title": "Mobile Brains",
+    "hooks": {
+        "mobilebrains": {
+            "apparmor": "mobilebrains.apparmor",
+            "desktop":  "mobilebrains.desktop"
+        }
+    },
+    "version": "1.0.3",
+    "maintainer": "Diogo Carneiro <dc@diogocarneiro.pt>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
