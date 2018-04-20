@@ -9,7 +9,7 @@
             "desktop":  "mobilebrains.desktop"
         }
     },
-    "version": "1.0.3",
+    "version": "1.0.4",
     "maintainer": "Diogo Carneiro <dc@diogocarneiro.pt>",
     "framework" : "ubuntu-sdk-15.04.5"
 }
